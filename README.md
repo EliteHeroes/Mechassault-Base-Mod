@@ -1,6 +1,6 @@
 # Mechassault Base Mod
 
-This mod aims to improve and expand upon the foundation that the game MechAssault started. Adding new features and quality of life changes, such as more time and score options for multiplayer (including the Grinder game mode), as well as more options for mechs and mech skins in a variety of game modes. Unlockable mechs for multiplayer are now available from the start, and an easy to access mission loader has been added to make it so you can jump straight into gameplay! To install and play, it is recommended to download the [latest release](https://github.com/EliteHeroes/Mechassault-Base-Mod/releases) and follow the install guide found below.
+This mod aims to improve and expand upon the foundation that the game MechAssault started. Adding new features and quality of life changes, such as more time and score options for multiplayer (including for the Grinder game mode), as well as more options for mechs and mech skins in a variety of game modes. Unlockable mechs for multiplayer are now available from the start, and an easy to access mission loader has been added to make it so you can jump straight into gameplay! To install and play, it is recommended to download the [latest release](https://github.com/EliteHeroes/Mechassault-Base-Mod/releases) and follow the install guide found below.
 
 
 ![](/Screenshots/Pic1.png)
