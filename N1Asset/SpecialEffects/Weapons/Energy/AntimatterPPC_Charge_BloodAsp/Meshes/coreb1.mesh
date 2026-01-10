@@ -7,6 +7,6 @@ file_version    = 2
 [mesh]
 name       = "coreb1"
 type       = INDEXEDLIST
-vertices   = "dark_matterb4.geomVert"
-faces      = "dark_matterb4.geomFace"
+vertices   = "dark_matter01.geomVert"
+faces      = "dark_matter01.geomFace"
 material   = "../Materials/core2.mat"

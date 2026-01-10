@@ -1,0 +1,22 @@
+[fileinfo]
+file_version = 2
+;Created by EliteAssault
+;Created in 2025
+
+
+[material]
+type       = BASE
+name           = "Plasma Decal"
+amb_color      = 11, 11, 11
+diff_color     = 255, 255, 255
+selfillum_color= 255, 255, 255
+shininess     = 0
+opacity       = 1
+two_sided     = false
+shading       = gouraud
+blending      = additive
+base             = "PPC_Decal_L3.tif"
+base_tiling        = U_CLAMP | V_CLAMP
+base_mipmapping  = yes
+base_mipmap_bias = 0.0
+correct_shading	= true

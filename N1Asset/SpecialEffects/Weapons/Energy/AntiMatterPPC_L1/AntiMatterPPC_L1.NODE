@@ -35,24 +35,12 @@ num_meshes   = 1
 mesh         = "Meshes/ppc_core_out02.mesh"
 
 [hardware_light]
-type         = LIGHT
+type         = NODE
 position     = -0.00520319, 0.00000000, 0.00958553
 rot_axis     = -1.00000000, 0.00000000, 0.00000000
 rot_angle    = 0.00000000
 scale        = 0.85167992, 0.85167992, 0.85167992
 num_children = 0
-light_type        = point
-light_on          = yes
-light_color       = 215, 186, 249
-light_radius      = 25.00000000
-light_glow        = no
-light_lightmap            = yes
-light_lightmap_min_height = 0.50000000
-light_lightmap_max_height = 15.00000000
-light_lightmap_min_radius = 15.00000000
-light_lightmap_max_radius = 25.00000000
-light_lightmap_min_color  = 107, 73, 125
-light_lightmap_max_color  = 107, 73, 125
 
 [ppc_core_out01]
 type         = 3DOBJECT

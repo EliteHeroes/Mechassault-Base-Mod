@@ -6,7 +6,7 @@ file_version    = 2
 
 [material]
 type       = BASE
-name           = "core"
+name           = "core2"
 amb_color      = 83, 30, 41
 diff_color     = 225, 225, 225
 selfillum_color= 0, 0, 0
